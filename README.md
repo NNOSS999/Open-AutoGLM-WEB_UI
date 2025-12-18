@@ -77,6 +77,12 @@
 
 ---
 
+## 👾 本地部署
+
+- **模型下载**：强烈推荐在 hugging face 下载你所需要的模型，我上传了 GGUF 格式的合集，地址：https://huggingface.co/BlcaCola/AutoGLM-Phone-9B-GGUF 欢迎下载！
+
+---
+
 ## 🤝 反馈与贡献
 
 如果你发现 bug 或想要改进：
